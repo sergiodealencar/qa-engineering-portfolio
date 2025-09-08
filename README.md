@@ -49,7 +49,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 ### Jenkins CI/CD + Postman + Docker
 - **Description:** This repository demonstrates how to automate API testing using a Postman collection executed by Newman inside a Jenkins pipeline running on Docker.
 - **Tech Stack:** API Testing, Postman, Jenkins, Newman, Docker
-- **Repo:** [View Project](https://github.com/sergiodealencar/api-test-automation/blob/main/README.md)
+- **Repo:** [View Project](https://github.com/sergiodealencar/jenkins-postman-ci-demo/blob/main/README.md)
 
 ---
 
