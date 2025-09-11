@@ -60,7 +60,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 
 ---
 
-> *"Code. Repeat. Discover."*
+> *"Test. Refine. Deliver."*
 
 
 
