@@ -12,7 +12,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 
 ---
 
-### **Technical Skills**
+## Technical Skills
 
 **Programming & Scripting**
 *   JavaScript, Bash
