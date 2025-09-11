@@ -2,7 +2,7 @@
 
 Welcome to my QA Engineering portfolio!  
 
-Here you'll find XXX
+Here you'll find a curated collection of my projects and case studies that demonstrate my practical skills in manual and automated testing, API validation, and implementing QA processes within CI/CD pipelines.
 
 ---
 
