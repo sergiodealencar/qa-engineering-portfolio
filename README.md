@@ -55,6 +55,13 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 - **Tech Stack:** API Testing, Postman, Jenkins, Newman, Docker
 - **Repo:** [View Project](https://github.com/sergiodealencar/jenkins-postman-ci-demo/blob/main/README.md)
 
+### Performance Testing Project (JMeter)
+- **Description:** This project demonstrates the use of Apache JMeter to design and execute performance tests against the [Automation Practice
+ demo e-commerce site](http://www.automationpractice.pl/index.php). The test plan simulates a user journey (browse homepage, view category, open product, add to cart) and collects metrics such as response times, throughput, and error rates.
+- **Tech Stack:** JMeter
+- **Repo:** [View Project](https://github.com/sergiodealencar/jmeter-performance-test/blob/main/readme.md)
+
+
 ---
 
 
