@@ -2,7 +2,7 @@
 
 Welcome to my QA Engineering portfolio!  
 
-Here you'll find XXX.
+Here you'll find XXX
 
 ---
 
