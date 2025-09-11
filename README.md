@@ -6,11 +6,13 @@ Here you'll find a curated collection of my projects and case studies that demon
 
 ---
 
+
 ## About Me
 
 I am a Bioinformatics professional with over 10 years of experience in research and education, currently transitioning into the technology industry as a Quality Assurance (QA) Engineer. I have 1 year of hands-on experience in QA, working on both personal and collaborative projects. I have solid knowledge of QA fundamentals, SDLC, and STLC, with hands-on experience in test planning, writing comprehensive test cases, and documenting results through clear, actionable reports. I am proficient in SQL for backend validation, experienced with Jira, TestRail, Git/GitHub, and API testing using Postman. My background includes mobile testing, basic web technologies (JavaScript, HTML, CSS), and a strong focus on precision, collaboration, and product quality.
 
 ---
+
 
 ## Technical Skills
 
@@ -35,6 +37,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 
 ---
 
+
 ## Featured Projects
 
 ### Manual Testing Project
@@ -53,6 +56,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 - **Repo:** [View Project](https://github.com/sergiodealencar/jenkins-postman-ci-demo/blob/main/README.md)
 
 ---
+
 
 ## Contact
 - **Email:** sergiodealencar@gmail.com 
