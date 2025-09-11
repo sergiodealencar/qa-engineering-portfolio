@@ -31,6 +31,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 * Experienced in API testing using Postman
 * Capable of mobile testing
 * Familiarity with Continuous Integration (Jenkins)
+* Familiar with Apache JMeter for basic performance testing, creating test plans, and analyzing reports.
 
 ---
 
