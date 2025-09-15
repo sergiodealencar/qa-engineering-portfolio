@@ -65,6 +65,18 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 ---
 
 
+
+## Certificates/Courses
+- **QA Engineer**, Mate Academy, 07/2025
+- **Postman: The Complete Guide - REST API Testing**, Udemy, 09/2025
+- **Fundamentals of Testing with TestRail**, TestRail Academy, 04/2025
+- **Python Programming**, Test Automation University, 04/2025
+- **Setting a Foundation for Successful Test Automation**, Test Automation University, 04/2025
+- **Building Up Quality Leaders**, Test Automation University, 03/2025
+- **QA for Agile Teams**, Udemy,	03/2025
+- **JMeter - Performance Tests**, Udemy, 09/2025
+
+---
 ## Contact
 - **Location:** Brasília, DF, Brazil
 - **Phone:** +55 61 98164-5881
