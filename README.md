@@ -45,6 +45,12 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 - **Skills:** Test Cases, TestRail, Bug Reporting, Manual Testing, Jira
 - **Repo:** [View Project](https://github.com/sergiodealencar/manual-testing-projects/blob/main/README.md)
 
+### Performance Testing Project (JMeter)
+- **Description:** This project demonstrates the use of Apache JMeter to design and execute performance tests against the [Automation Practice
+ demo e-commerce site](http://www.automationpractice.pl/index.php). The test plan simulates a user journey (browse homepage, view category, open product, add to cart) and collects metrics such as response times, throughput, and error rates.
+- **Tech Stack:** JMeter
+- **Repo:** [View Project](https://github.com/sergiodealencar/jmeter-performance-test/blob/main/readme.md)
+
 ### Trello API Testing with Postman and Newman
 - **Description:** This project demonstrates how to automate API testing for the Trello API using a Postman collection executed via Newman, making it suitable for CI/CD pipelines such as Jenkins.
 - **Tech Stack:** API Testing, Postman, Newman
@@ -54,12 +60,6 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 - **Description:** This repository demonstrates how to automate API testing using a Postman collection executed by Newman inside a Jenkins pipeline running on Docker.
 - **Tech Stack:** API Testing, Postman, Jenkins, Newman, Docker
 - **Repo:** [View Project](https://github.com/sergiodealencar/jenkins-postman-ci-demo/blob/main/README.md)
-
-### Performance Testing Project (JMeter)
-- **Description:** This project demonstrates the use of Apache JMeter to design and execute performance tests against the [Automation Practice
- demo e-commerce site](http://www.automationpractice.pl/index.php). The test plan simulates a user journey (browse homepage, view category, open product, add to cart) and collects metrics such as response times, throughput, and error rates.
-- **Tech Stack:** JMeter
-- **Repo:** [View Project](https://github.com/sergiodealencar/jmeter-performance-test/blob/main/readme.md)
 
 
 ---
