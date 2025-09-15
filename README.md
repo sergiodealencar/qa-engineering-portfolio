@@ -66,6 +66,8 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 
 
 ## Contact
+- **Location:** Brasília, DF, Brazil
+- **Phone:** +55 61 98164-5881
 - **Email:** sergiodealencar@gmail.com 
 - **LinkedIn:** [www.linkedin.com/in/sergiodealencar](https://www.linkedin.com/in/sergiodealencar)  
 
