@@ -25,7 +25,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 * Write and maintain detailed test cases and test plans, and document results with clear reports
 * Familiar with SDLC (Software Development Life Cycle) and STLC (Software Testing Life Cycle)
 * Capable of writing clear and comprehensive bug reports
-* Track, analyze, and report issues using tools like Jira and TestRail, offering insights to support bug resolution
+* Track, analyze, and report issues using tools like Jira, TestRail and Xray, offering insights to support bug resolution
 * Experienced with Git and GitHub for version control and terminal commands
 * Strong analytical and communication skills, with attention to detail
 * Knowledgeable in JavaScript
