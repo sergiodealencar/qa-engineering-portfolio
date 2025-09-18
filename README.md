@@ -20,7 +20,7 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 *   JavaScript, Bash
 
 **QA Technical Skills**
-* Know how to analyze and write SQL queries
+* Know how to analyze and write SQL queries in PostgreSQL using pgAdmin
 * Understand QA fundamentals and testing methodologies
 * Write and maintain detailed test cases and test plans, and document results with clear reports
 * Familiar with SDLC (Software Development Life Cycle) and STLC (Software Testing Life Cycle)
