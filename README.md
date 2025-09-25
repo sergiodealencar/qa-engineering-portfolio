@@ -17,7 +17,10 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 ## Technical Skills
 
 **Programming & Scripting**
-*   JavaScript, Bash
+
+**Proficient: Linux, Bash, Bioinformatics (automation pipeline development, data analysis)
+Intermediate: JavaScript, Git/GitHub, Jira, TestRail, Postman, PosgreSQL, pgAdmin
+*Beginner: Confluence, Miro, Python, R, Jenkins, Docker, HTML, CSS, Playwright. JMeter
 
 **QA Technical Skills**
 * Know how to analyze and write SQL queries in PostgreSQL using pgAdmin
