@@ -48,6 +48,13 @@ I am a Bioinformatics professional with over 10 years of experience in research 
 - **Skills:** Test Cases, TestRail, Bug Reporting, Manual Testing and Jira.
 - **Repo:** [View Project](https://github.com/sergiodealencar/manual-testing-projects/blob/main/README.md)
 
+### Playwright Automation Project
+- **Description:** This project demonstrates the implementation of end-to-end (E2E) automated testing using Playwright and TypeScript for a responsive Angular IoT Dashboard web application.
+The automation suite validates key user interactions, including navigation, form submissions, and UI component verification, ensuring application reliability across multiple browsers.
+- **Tech Stack:** Playwright.
+- **Repo:** [View Project](https://github.com/sergiodealencar/playwright-project/blob/main/README.md)
+
+
 ### Performance Testing Project (JMeter)
 - **Description:** This project demonstrates the use of Apache JMeter to design and execute performance tests against the [Automation Practice
  demo e-commerce site](http://www.automationpractice.pl/index.php). The test plan simulates a user journey (browse homepage, view category, open product, add to cart) and collects metrics such as response times, throughput, and error rates.
